@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-zinc-950 text-zinc-100 font-sans antialiased overflow-hidden;
+  }
+}
+
+@layer utilities {
+  .theme-matrix {
+    @apply bg-matrix-bg text-matrix-text;
+  }
+  
+  .theme-synthwave {
+    @apply bg-synthwave-bg text-synthwave-text;
+  }
+  
+  .theme-truecolor {
+    @apply bg-black text-white;
+  }
+
+  .canvas-container {
+    @apply relative w-full h-full flex items-center justify-center overflow-hidden;
+  }
+}
