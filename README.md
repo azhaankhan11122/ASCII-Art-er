@@ -263,7 +263,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ```
     ██████████████████████████████████████
     █                                    █
-    █   Made with ♥ and lots of @@@@@@   █
+    █   Made with ♥ by 4zhaan            █
     █                                    █
     ██████████████████████████████████████
 ```
